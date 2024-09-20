@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.mt-100{
+    margin-top: 100px;
+}
+.mb-100{
+    margin-bottom: 100px;
+}
+.my-100{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.logo{
+    height: 80px;
+    width: 200px;
+}
+.navbar-toggler{
+    background-color: white;
+}
+
+/* Banner */
+.carousel-item{
+    height: 85vh;
+}
+
+/* Blog */
